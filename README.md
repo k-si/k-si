@@ -2,12 +2,13 @@
 
 I'm ksir, a coder from China. Graduated from Hebei Normal University in 2022. I'm very interested in the low level of linux kernel, db, network service framework. In life, I like all kinds of new activities, such as archery, ice hockey, tennis, volleyball, etc.
 
-I used to like playing basketball very much, but due to the epidemic and lack of self-discipline, I have gained a lot of weight now, and I can no longer play :(
+I’m currently working on ByteDance, focusing on the recording and playback of network traffic. you can reach me by orangelvsk@gmail.com.
 
-- 🔭 I’m currently working on ByteDance, focusing on the recording and playback of network traffic
-- 🌱 I’m currently learning ebpf, automaton and rust
-- 📫 How to reach me: orangelvsk@gmail.com
++ ![sumy7](https://komarev.com/ghpvc/?username=sumy7)
++ ![sumy7](https://visitor-badge.glitch.me/badge?page_id=sumy7.profile)
 
+_color=daf7dc&bg_color=151515)](https://github.com/k-si/CaskDB)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=k-si&layout=compact&exclude_repo=k-si.github.io&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515)](https://github.com/anuraghazra/github-readme-stats)
 
 ![](https://github-readme-stats.vercel.app/api?username=k-si)
-![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
