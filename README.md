@@ -4,7 +4,7 @@ I'm ksir, a coder from China. Graduated from Hebei Normal University in 2022. I'
 
 I’m currently working on [ByteDance](https://www.bytedance.com), focusing on the recording and playback of network traffic. you can reach me by orangelvsk@gmail.com.
 
-![sumy7](https://komarev.com/ghpvc/?username=sumy7) ![sumy7](https://visitor-badge.glitch.me/badge?page_id=sumy7.profile)
+![k-si](https://komarev.com/ghpvc/?username=k-si) ![k-si](https://visitor-badge.glitch.me/badge?page_id=k-si.profile)
 
 [![Readme Card](https://github-readme-stats.vercel.app/api?username=k-si&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515)](https://github.com/anuraghazra/github-readme-stats)
 
