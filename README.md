@@ -1,6 +1,6 @@
 ### Hi, my friend
 
-I'm ksir, a coder from China. Graduated from Hebei Normal University in 2022. I'm very interested in the low level of linux kernel, db, network service framework. In life, I like all kinds of new activities, such as archery, ice hockey, tennis, volleyball, etc. 
+I'm ksir, a coder from China. Graduated in 2022. I'm very interested in the low level of linux kernel, db, network service framework. In life, I like all kinds of new activities, such as archery, ice hockey, tennis, volleyball, etc. 
 
 I’m currently working on [ByteDance](https://www.bytedance.com), focusing on the recording and playback of network traffic. you can reach me by orangelvsk@gmail.com.
 
